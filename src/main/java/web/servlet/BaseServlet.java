@@ -9,6 +9,7 @@ import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 
 /**
+ * 替换HttpServlet的请求方式分发，而使用请求的最后一段路径来进行分发
  * Create by LCX on 1/13/2022 3:48 PM
  */
 
